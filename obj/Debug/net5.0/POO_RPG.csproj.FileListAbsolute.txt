@@ -1,0 +1,16 @@
+C:\Users\nicol\dotnet Projects\DIO\POO_RPG\bin\Debug\net5.0\POO_RPG.exe
+C:\Users\nicol\dotnet Projects\DIO\POO_RPG\bin\Debug\net5.0\POO_RPG.deps.json
+C:\Users\nicol\dotnet Projects\DIO\POO_RPG\bin\Debug\net5.0\POO_RPG.runtimeconfig.json
+C:\Users\nicol\dotnet Projects\DIO\POO_RPG\bin\Debug\net5.0\POO_RPG.runtimeconfig.dev.json
+C:\Users\nicol\dotnet Projects\DIO\POO_RPG\bin\Debug\net5.0\POO_RPG.dll
+C:\Users\nicol\dotnet Projects\DIO\POO_RPG\bin\Debug\net5.0\ref\POO_RPG.dll
+C:\Users\nicol\dotnet Projects\DIO\POO_RPG\bin\Debug\net5.0\POO_RPG.pdb
+C:\Users\nicol\dotnet Projects\DIO\POO_RPG\obj\Debug\net5.0\POO_RPG.csproj.AssemblyReference.cache
+C:\Users\nicol\dotnet Projects\DIO\POO_RPG\obj\Debug\net5.0\POO_RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\dotnet Projects\DIO\POO_RPG\obj\Debug\net5.0\POO_RPG.AssemblyInfoInputs.cache
+C:\Users\nicol\dotnet Projects\DIO\POO_RPG\obj\Debug\net5.0\POO_RPG.AssemblyInfo.cs
+C:\Users\nicol\dotnet Projects\DIO\POO_RPG\obj\Debug\net5.0\POO_RPG.csproj.CoreCompileInputs.cache
+C:\Users\nicol\dotnet Projects\DIO\POO_RPG\obj\Debug\net5.0\POO_RPG.dll
+C:\Users\nicol\dotnet Projects\DIO\POO_RPG\obj\Debug\net5.0\ref\POO_RPG.dll
+C:\Users\nicol\dotnet Projects\DIO\POO_RPG\obj\Debug\net5.0\POO_RPG.pdb
+C:\Users\nicol\dotnet Projects\DIO\POO_RPG\obj\Debug\net5.0\POO_RPG.genruntimeconfig.cache
